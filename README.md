@@ -1,2 +1,2 @@
-# todoapp
-## simple ToDo app using Django
+# ToDo app
+## Simple ToDo app using Django
